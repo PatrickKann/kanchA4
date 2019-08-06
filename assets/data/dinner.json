@@ -1,0 +1,9 @@
+{
+  "dinner": 
+	[
+		{"food": "Mighty Angus Original","price": 11.99,"cal": 790},
+		{"food": "Big Mac","price": 7.99,"cal": 520},
+		{"food": "Hamburger","price": 5.99,"cal": 240},
+		{"food": "Cheeseburger","price": 5.99,"cal": 290}
+  ]
+}

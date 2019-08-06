@@ -1,0 +1,9 @@
+{
+  "lunch": 
+	[
+		{"food": "Caesar Side Salad","price": 5.99,"cal": 150},
+		{"food": "Garden Fresh Side Salad","price": 4.99,"cal": 40},
+		{"food": "Greek Feta Salad","price": 7.99,"cal": 440},
+		{"food": "Asian Cashew Salad","price": 7.99,"cal": 390}
+  ]
+}

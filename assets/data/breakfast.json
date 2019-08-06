@@ -1,0 +1,9 @@
+{
+  "breakfast": 
+	[
+		{"food": "Egg BLT McMuffin","price": 7.99,"cal": 360},
+		{"food": "Sausage 'N Egg McMuffin","price": 5.99,"cal": 430},
+		{"food": "Bacon & Hash Brown More-Ning McWrap","price": 4.99,"cal": 590},
+		{"food": "Plain Bagel With Butter","price": 3.99,"cal": 320}
+  ]
+}
